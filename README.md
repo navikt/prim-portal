@@ -1,2 +1,3 @@
-# prim-portal
-Felles innloggingsportal for PRIMs tjenester
+## prim-portal
+
+Dette er innloggingsportalen til Plattform for rekruttering og intern mobilitet
